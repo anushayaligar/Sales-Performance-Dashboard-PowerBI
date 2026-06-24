@@ -6,7 +6,7 @@ This project analyses sales performance using Power BI. The dashboard provides i
 
 ## Dashboard Preview
 
-https://github.com/anushayaligar/Sales-Performance-Dashboard-PowerBI/blob/main/images/Screenshot%202026-06-24%20170028.png?raw=true
+![Sales Dashboard](https://github.com/anushayaligar/Sales-Performance-Dashboard-PowerBI/blob/main/images/Screenshot%202026-06-24%20170028.png?raw=true)
 
 ## Tools Used
 
